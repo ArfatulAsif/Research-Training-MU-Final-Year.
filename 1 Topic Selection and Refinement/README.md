@@ -301,3 +301,19 @@ If it still feels weak, that's normal. Do one of two things:
 - Restart cleanly with a different topic from Part 4.
 
 Either way, **don't stall.** And remember you don't have to carry it alone — split the dataset collection, the literature review, and the coding across your team, and keep going. Research is mostly persistence: continue, continue, continue.
+
+
+
+
+
+
+
+# What would I, as your supervisor, do?
+
+1. I will ensure that your selected topic is good, practical, feasible, and doable within the given timeframe.
+
+2. I will guide you whenever you get stuck.
+
+3. I will tell you exactly how to organize and conduct your research for your topic, especially how to annotate datasets, write code, and write the paper.
+
+4. Regarding coding, trust me when I say this: **if my hardware or the available hardware supports it, no matter how complex the code is, I will be able to do it. I am very good at it.** So, you are safe on that end (hopefully, Insha'Allah).
