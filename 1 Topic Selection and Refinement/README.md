@@ -1,5 +1,5 @@
 
-## 3. Project Identity
+##  Project Identity
 
 **Research Title:**
 *Rider-POV: A Multimodal Edge AI Approach for Detecting Camouflaged Road Anomalies in Unstructured Traffic*
