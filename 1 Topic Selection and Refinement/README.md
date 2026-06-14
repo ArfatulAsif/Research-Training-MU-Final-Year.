@@ -1,3 +1,37 @@
+
+## 3. Project Identity
+
+**Research Title:**
+*Rider-POV: A Multimodal Edge AI Approach for Detecting Camouflaged Road Anomalies in Unstructured Traffic*
+
+**Clear Goals:**
+
+1. Introduce a novel, two-wheeler dynamic dataset addressing the "unmarked hazard" corner case.
+2. Demonstrate that Deep Metric Learning techniques outperform standard bounding-box detectors on zero-contrast infrastructure.
+3. Deploy and benchmark an offline-first, real-time detection pipeline on resource-constrained edge hardware.
+
+**Dataset Description:**
+A synchronized visual-inertial dataset comprising real-world, dynamic two-wheeler driving scenes on unstructured roads. It specifically categorizes speed bumps by visibility (marked vs. unmarked) and lighting conditions, validated via localized accelerometer telemetry.
+
+
+
+--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # How to Do Research: A Practical Guide to Topic Selection
 
 *For undergraduate Computer Science students*
